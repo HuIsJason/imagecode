@@ -1,0 +1,19 @@
+{
+  "name": "imagecode",
+  "version": "1.0.0",
+  "description": "An API for converting images to Unicode characters.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HuIsJason/imagecode.git"
+  },
+  "author": "Jason Hu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HuIsJason/imagecode/issues"
+  },
+  "homepage": "https://github.com/HuIsJason/imagecode#readme"
+}
